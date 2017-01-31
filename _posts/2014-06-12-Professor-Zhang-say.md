@@ -1,14 +1,9 @@
-```
 ---
 layout: post
-title: 张伟强教授说
-categories: 
- - Blog
- - Technology
-permalink: /posts/1
-nocomments: true  # Disable the comment box. This is EasyBook feature
+title:  "张伟强教授说"
+date:   2014-06-20s 08:00
+categories: 杂
 ---
-```
 
 ## 张伟强教授说
 
