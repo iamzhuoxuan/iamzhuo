@@ -2,7 +2,9 @@
 layout: post
 title:  "张伟强教授说"
 date:   2014-06-20s 08:00
-categories: 杂
+categories: 
+  - 杂
+nocomments: true  # Disable the comment box. This is EasyBook feature
 ---
 
 ## 张伟强教授说
