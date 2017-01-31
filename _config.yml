@@ -1,5 +1,5 @@
 # Site settings
-title: 木杉稼轩
+title: Home
 url: "http://iamzhuoxuan.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 timezone: Asia/Guangzhou
 description: >
@@ -8,7 +8,7 @@ description: >
 # Your information
 email: iamzhuoxuan@gmail.com
 author: zhuoxuan
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "https://github.com/iamzhuoxuan/iamzhuoxuan.github.io/blob/master/img/image0.jpg"
 profile: 卓璇 90后
 #twitter_username: twitter_username
 #github_username:  github_username
