@@ -4,7 +4,8 @@ title:  "张伟强教授说"
 date:   2014-06-20s 08:00
 categories: 
   - 杂
-nocomments: true  # Disable the comment box. This is EasyBook feature
+comments: true  # Disable the comment box. This is EasyBook feature
+excerpt:  "张伟强教授说"
 ---
 
 一、研究有理论研究和实证研究，理论研究非本科生水平能把握得住。
