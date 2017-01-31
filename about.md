@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 public: true
 ---
 
-**用十年来种一棵树**
+<h3>用十年来种一棵树</h3>
 
 那独立于我的，拥有了自己的生命。
 
