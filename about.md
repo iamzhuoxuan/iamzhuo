@@ -5,6 +5,12 @@ permalink: /about/
 public: true
 ---
 
-Welcome to this website!
+## 用十年来种一棵树
 
-> This website is using [laobubu](http://laobubu.net)'s theme: [EasyBook](https://github.com/laobubu/jekyll-theme-EasyBook)
+那独立于我的，拥有了自己的生命。
+
+13年前，我在家乡种了一株龙眼树。
+
+今天起，再种一棵树，种在比特海。
+
+2017-01-12
