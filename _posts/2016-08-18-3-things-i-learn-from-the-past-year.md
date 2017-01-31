@@ -1,5 +1,10 @@
-## 职场第1年，我学到这3样东西
-
+---
+layout: post
+title:  "职场第1年，我学到这3样东西"
+date:   2016-08-18 08:00
+categories: 
+  - 2016
+---
 ![](http://mmbiz.qpic.cn/mmbiz_jpg/cicG9K6Wf5FYZ8jtprTvOXUs28omUIXcicHDUAGpuzHXRJpsYibUibku0OhYaBhy8s9L5IZL5DHKDmfNyZXetYYibSA/640?wx_fmt=jpeg&tp=webp&wxfrom=5)
 
 去年8月底，我加入了现在所在的创业公司，跟随基哥（boss）一起创业、一起学习。
