@@ -12,6 +12,6 @@ public: true
 	{% if year != nyear %} 
     <h2>{{ post.date | date: '%Y' }}</h2> {% endif %} 
 	{% endunless %} 
-<h5><span>{{ post.date | date: "%b %d" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></h5>
+<ul><li><span>{{ post.date | date: "%b %d" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li></ul>
 	{% endfor %} 
 </ul>
