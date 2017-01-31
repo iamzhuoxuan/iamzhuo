@@ -1,3 +1,15 @@
+```
+---
+layout: post
+title: 张伟强教授说
+categories: 
+ - Blog
+ - Technology
+permalink: /posts/1
+nocomments: true  # Disable the comment box. This is EasyBook feature
+---
+```
+
 ## 张伟强教授说
 
 一、研究有理论研究和实证研究，理论研究非本科生水平能把握得住。
