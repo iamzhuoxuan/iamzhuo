@@ -5,7 +5,8 @@ date:   2014-06-20s 08:00
 categories: 
   - 杂
 comments: true  # Disable the comment box. This is EasyBook feature
-excerpt:  "张伟强教授说"
+excerpt:  "一、研究有理论研究和实证研究，理论研究非本科生水平能把握得住。二、读书要有学格，独立的学格，端正的态度。三、独立思考的表现是能独立地完成一件事，此即领导才能。
+"
 ---
 
 一、研究有理论研究和实证研究，理论研究非本科生水平能把握得住。
