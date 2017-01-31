@@ -3,7 +3,7 @@ layout: post
 title: "过去我90%的阅读没有意义"
 date: 2017-01-09 08:00
 categories:
-  - 2017
+  - 2017年
   - 阅读
 ---
 
