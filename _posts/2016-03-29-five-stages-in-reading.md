@@ -1,5 +1,10 @@
-## 读书的五个阶段
-
+---
+layout: post
+title: "读书的五个阶段"
+date: 2016-03-29 08:00
+categories:
+  - 2016年
+---
 ![](http://mmbiz.qpic.cn/mmbiz/cicG9K6Wf5FaEQouHicqdmFMkLAOaLWp1AfCD6iaERkXK3vAziciaTcickJX5vHFvELODyVlmPGofmEkYTMMPNkkAhCg/640?wx_fmt=jpeg&tp=webp&wxfrom=5)
 
 巴菲特有个大副，叫查理芒格。世人都知道巴菲特，但知道芒格的就少很多了。但芒格也是一个很智慧的人，我非常喜欢这本关于他的书，也推荐给你们——《穷查理宝典》。

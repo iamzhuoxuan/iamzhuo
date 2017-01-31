@@ -1,8 +1,12 @@
-## 不喜欢摇滚的产品经理，张小龙为什么不要？因为——摇滚有毒！
+---
+layout: post
+title: "不喜欢摇滚的产品经理，张小龙为什么不要？因为——摇滚有毒！"
+date: 2016-03-27 08:00
+categories:
+  - 2016年
+---
 
 ![](http://mmbiz.qpic.cn/mmbiz/cicG9K6Wf5FYRuoSZqap4GJJaOEHxfONqxqpGVPnhX5DwPqpghoNeZ0V2DMrKwyKx2lQDibJQ3tr0tibnicfa8y1Tw/640?wx_fmt=jpeg&tp=webp&wxfrom=5)
-
-
 
 张小龙——微信的创始人，这个传说中“谜一样的男人”——的饭否日记，前段时间被挖了出来，满城风雨。 
 
@@ -56,6 +60,7 @@ MJ甚至收集了火车压过铁轨的声音，他说，要造出这个世界上
 > 神经好比电线，只有搭错才会碰出火花。
 >
 > —— gzallen 2010-12-17 22:50 通过网页
+
 
 
 > 懒人还是很多的，居然懒到连个黄页都找不到的也有。这说明，存在一个大需求：问答漂流瓶。将问题装在瓶子力扔到海里，自然有人会回答你。嘿嘿。神经错乱就是来电。—— gzallen 2010-12-18 02:47 通过网页
